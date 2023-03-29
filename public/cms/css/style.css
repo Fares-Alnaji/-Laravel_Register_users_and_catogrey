@@ -1,0 +1,14 @@
+.options{
+    display: flex;
+    flex-direction: row;
+    column-gap: 10px;
+}
+.add{
+    color: green;
+    border-color: green;
+}
+.delete-btn{
+    border: 1px solid red;
+    background-color: transparent;
+    color: red;
+}
