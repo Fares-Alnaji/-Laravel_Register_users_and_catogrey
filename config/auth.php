@@ -1,6 +1,7 @@
 <?php
 
 use App\Models\Admin;
+use Illuminate\Support\Facades\App;
 
 return [
 
